@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 2,
+      "execution_count": null,
       "metadata": {
         "id": "BDE-M45pKw4l"
       },
@@ -56,7 +56,7 @@
         "id": "tVc0hj15MyKz",
         "outputId": "b1967d5f-bbeb-4c21-fc68-919df564feb5"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -83,7 +83,7 @@
         "id": "YnEoAVWxNChG",
         "outputId": "154d2d22-5b1a-4f10-a686-d070878e59f3"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -104,7 +104,7 @@
       "metadata": {
         "id": "c5bCNwG_Nwv2"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -120,7 +120,7 @@
       "metadata": {
         "id": "W0qVa5xzOLv2"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -141,7 +141,7 @@
         "id": "f83ON_j0ON7Z",
         "outputId": "f4b960b7-b91a-4d28-d341-4f5bfb3a6f43"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "error",
@@ -189,7 +189,7 @@
         "id": "YOcTbGjkQdVN",
         "outputId": "30374a61-c9d2-4475-9845-e7e5b310b36c"
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -214,7 +214,7 @@
         "id": "pzN29l-5Rvq5",
         "outputId": "e0630e93-dcd8-4b10-cca2-7de6d56831fa"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -294,13 +294,13 @@
         "print(response.text)"
       ],
       "metadata": {
+        "id": "-weasmYkR6Gz",
+        "outputId": "fcb82fcc-0739-4bc2-f826-2e4dca74d76b",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "-weasmYkR6Gz",
-        "outputId": "fcb82fcc-0739-4bc2-f826-2e4dca74d76b"
+        }
       },
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
